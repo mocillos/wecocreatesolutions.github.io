@@ -1,0 +1,27 @@
+{
+  "version": "3.52.25156.0",
+  "course_id": "6CXgwCbc9wR_course_id",
+  "title": "What Vistaprint products should we recommend to Mustard Beetle’s owner?",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Video 1"
+    }
+  ],
+  "slides": [
+    {
+      "id": "67KgzNo5wSw",
+      "title": "Video 1",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 476
+  },
+  "stage": {
+    "width": 720,
+    "height": 405
+  }
+}
